@@ -2,9 +2,12 @@
 title: Hello!
 ---
 
-Welcome to my website. It is rather shit rn.
+Welcome to my website. 
 
-# Linguistics Stuff
-# Projects 
-# Blog
+# WOAH GUYS NEW WEBSITE 
+## Yippieeeeee
+
+> [!info] 
+> This one is awesome
+
 
