@@ -3,7 +3,8 @@ Today's Name:
 
 Note: it is pronounced \[gænɪmiːd joʊviː] or \[gænɪmiːd dʒoʊviː] but *please* use the alchemical symbols if you are writing. 
 
-☾Γµ -> \[gænɪmiːd]      ♃i -> \[joviː] 
+☾Γµ -> \[gænɪmiːd]      
+♃i -> \[joviː] 
 
 ***
 ### IF YOU ARE IN A HURRY, JUST USE "☾Γµe" TO REFER TO ME \[gænɪmiːdeɪ]
