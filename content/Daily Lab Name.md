@@ -1,17 +1,17 @@
 Today's Name:
 # ☾Κλos ♃i
 
-Note: it is pronounced \[kəlɪstoʊs joʊviː] or \[kəlɪstoʊs dʒoʊviː] but *please* use the alchemical symbols if you are writing. 
+>Note: it is pronounced \[kəlɪstoʊs joʊviː] or \[kəlɪstoʊs dʒoʊviː] but *please* use the alchemical symbols if you are writing. 
 
 ☾Κλos -> \[kəlɪstoʊs]      
 ♃i -> \[joviː] 
 
-***
-### IF YOU ARE IN A HURRY, JUST USE "☾Κλe" TO REFER TO ME \[kəlɪsteɪ]
+> [!caution] IF YOU ARE IN A HURRY, JUST USE "☾Κλe" TO REFER TO ME \[kəlɪsteɪ]
 ***
 
-elsewise, if you want to take the time to learn Latin cases:
-## Talking about me (subject) \[-oʊs]<sup>1</sup> 
+***
+elsewise, if you want to take the time to learn Latin<sup>1</sup> cases:
+## Talking about me (subject) \[-oʊs] 
 *Wow, ☾Κλos always remembers to log out of the database!*
 ## Talking about me (direct object) \[-əm]
 *lowkey, It's giving ☾Κλum*
@@ -32,7 +32,9 @@ elsewise, if you want to take the time to learn Latin cases:
 # Some Cool Facts about Calisto (moon):
 
 - I mean just look at how cool it is 
+
 ![[Pasted image 20251001144542.png]]
+
 Image Credits: https://solarsystem.nasa.gov/moons/jupiter-moons/callisto/galleries
 
 ***
