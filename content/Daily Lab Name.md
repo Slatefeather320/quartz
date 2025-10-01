@@ -6,7 +6,9 @@ Today's Name:
 ☾Κλos -> \[kəlɪstoʊs]      
 ♃i -> \[joviː] 
 
-> [!caution] IF YOU ARE IN A HURRY, JUST USE "☾Κλe" TO REFER TO ME \[kəlɪsteɪ]
+> [!error] If you are in a hurry
+> 
+> Just use "☾Κλe" \[kəlɪsteɪ] to refer to me!
 
 ***
 elsewise, if you want to take the time to learn Latin<sup>1</sup> cases:
