@@ -7,7 +7,6 @@ Today's Name:
 ♃i -> \[joviː] 
 
 > [!caution] IF YOU ARE IN A HURRY, JUST USE "☾Κλe" TO REFER TO ME \[kəlɪsteɪ]
-***
 
 ***
 elsewise, if you want to take the time to learn Latin<sup>1</sup> cases:
